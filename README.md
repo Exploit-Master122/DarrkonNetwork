@@ -14,7 +14,11 @@ We're not perfect, we admit. But try our services. It'll be worth it,by far.
 Refunds by PayPal or Cash.
 
 Any forks that I have had have not been modified to say they are mine. 
+If so, offer a takedown request. I may have skidded it a long time ago, but I will delete the repo under DMCA. 😭
+I may have violated some people's Licences because I coudn't see it. My projects are normally not registered under Apache 2.0 and are not FOSS
+Those that are FOSS I never work on, are archived and mean no harm.
 Game ports are legal with the developer's permission (and/or) DMCA Takedown Requests.
+
 
 
 We also have a few music and game projects that are in development and closed-source.
