@@ -1,5 +1,7 @@
 # ***Darrkon Network***
-Darrkon Network is a small company dedicated to developing web soloutions. We make closed-source affordable proxies chock-full of tools, games, and fast browsing for contries that develop firewalls to block certain sites to restrict freedom of speech, like schools,Countries without freedom of speech.  
+Darrkon Network is a small company dedicated to developing web soloutions. We make closed-source affordable proxies chock-full of tools, games, and fast browsing for places that block sites. Much better than a simple VPN. 
+We use this to bypass firewalls and be better and more simple VPN's with more tools you could need. 
+You would normally use it to go to sites that would be blocked in places where there is no web freedom, like Schools, China, North Korea, or Iran.
 
 Our biggest projects are 
 - ***Bloodlust & Brutality*** a game that I am working on in Unity, a goal for being a developer in [New Blood Interactive](https://www.google.com/search?q=New+Blood+Interactive+Pulblisher)
