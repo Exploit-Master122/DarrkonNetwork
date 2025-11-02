@@ -22,7 +22,7 @@ Game ports are legal with the developer's permission (and/or) DMCA Takedown Requ
 
 
 We also have a few music and game projects that are in development and closed-source.
-Note that this group is a small organization of teens that like to develop random sh1t.
+Note that this group is a small organization of young teens that like to develop random sh1t.
 
 To Learn more or contact us join 
 [Our Discord](https://discord.gg/gyrnhBczd4)
