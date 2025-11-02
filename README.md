@@ -5,7 +5,7 @@ You would normally use it to go to sites that would be blocked in places where t
 
 Our biggest projects are 
 - ***Bloodlust & Brutality*** a game that I am working on in Unity, a goal for being a developer in [New Blood Interactive](https://www.google.com/search?q=New+Blood+Interactive+Pulblisher)
-- ***DARRKON*** a proxy and an operating system. Right now terrible, but a version 500x better coming soon. [Darrkon v9.7](https://darrkonv9.vercel.app)
+- ***DARRKON*** a proxy and an operating system built in Lightweight HTML and Typescript for most of our main projects. Right now terrible, but a version 500x better coming soon. [Darrkon v9.7](https://darrkonv9.vercel.app)
 - ***DEVELOPER IN ELUSION SERVICES*** We are trying to grow our community and other stuff. Most of our developers work in [Elusion Services](https://discord.gg/fGPVFYm46U)
 
 Our company has earned fair income. We are *attempting* to get better at what we do every day.
